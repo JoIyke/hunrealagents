@@ -22,15 +22,7 @@ AI agent that:
 
 ---
 
-### **2. 📜 Ayar — Ayat Rhymes (Quran Poems)**  
-Similar to Riri, but creates poetic videos from the **Quran**.  
-- 🕌 Quran-based poetry generation  
-- 🎬 Automated video creation & posting  
-- 📊 Hands-off content production  
-
----
-
-### **3. 💪 Street Motivation**  
+### **2. 💪 Street Motivation**  
 An AI system that:  
 - 🔍 Scrapes Reddit for motivation/advice requests  
 - ✍ Generates “tough-love” responses  
@@ -44,7 +36,7 @@ An AI system that:
 
 ---
 
-### **4. 💼 Job Updates**  
+### **3. 💼 Job Updates**  
 AI-powered job opportunity channel that:  
 - 🌐 Scrapes the web & RSS feeds for jobs  
 - 📊 Logs into Google Sheets  
@@ -53,7 +45,15 @@ AI-powered job opportunity channel that:
 - 🖋 Adds captions  
 - 📤 Auto-posts to YouTube  
 
-🔗 **Watch here:** [@jobupdateswithElihu](https://youtube.com/@jobupdateswithElihu)  
+🔗 **Watch here:** [@jobupdateswithElihu](https://youtube.com/@updateswithElihu)  
+
+---
+
+### **4. 📜 Ayar — Ayat Rhymes (Quran Poems)**  
+Similar to Riri, but creates poetic videos from the **Quran**.  
+- 🕌 Quran-based poetry generation  
+- 🎬 Automated video creation & posting  
+- 📊 Hands-off content production  
 
 ---
 
