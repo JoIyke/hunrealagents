@@ -77,43 +77,6 @@ A fun AI chatbot that:
 
 ---
 
-## 📂 Featured Projects  
-
-### **1. 📜 Riri — Rhymes and Revelation (Bible Poems)**  
-AI agent that automates Bible poem videos: voice cloning, narration, image gathering, video creation, captioning, tracking, and posting.  
-
-[![Watch on YouTube](https://img.youtube.com/vi/ILRW5iMg1Mo/maxresdefault.jpg)](https://www.youtube.com/watch?v=ILRW5iMg1Mo)  
-🔗 **Full channel:** [@biblepoems](https://youtube.com/@biblepoems)  
-
----
-
-### **2. 📜 Ayar — Ayat Rhymes (Quran Poems)**  
-A similar system to Riri, but for poetry from the Quran.  
-
-[![Watch on YouTube](https://img.youtube.com/vi/jUE_3ivl3VI/maxresdefault.jpg)](https://www.youtube.com/watch?v=jUE_3ivl3VI)  
-
----
-
-### **3. 💪 Street Motivation**  
-AI agent that finds Reddit posts needing motivation, gives “tough-love” responses, makes videos, and posts them.  
-
-[![Watch on YouTube](https://img.youtube.com/vi/tO_En_MCeS8/maxresdefault.jpg)](https://www.youtube.com/watch?v=tO_En_MCeS8)  
-🔗 **Full channel:** [@updateswithelihu](https://youtube.com/@updateswithelihu)  
-
----
-
-### **4. 💼 Job Updates**  
-AI-powered channel that gathers job listings, narrates them, makes videos, and uploads them automatically.  
-
-[![Watch on YouTube](https://img.youtube.com/vi/hwSpnW04QMY/maxresdefault.jpg)](https://www.youtube.com/watch?v=hwSpnW04QMY)  
-🔗 **Full channel:** [@jobupdateswithElihu](https://youtube.com/@jobupdateswithElihu)  
-
----
-
-### **5. 🗨 Gossip Bot (Telegram)**  
-A fun AI chatbot that transcribes user audio/video, has AI personalities gossip about it, and sends back entertaining responses.  
-
-
 ## 🛠 Tech & Tools I Work With
 ![n8n](https://img.shields.io/badge/-n8n-orange?style=flat-square&logo=n8n)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
