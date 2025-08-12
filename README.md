@@ -49,21 +49,25 @@ AI-powered job opportunity channel that:
 
 ---
 
-### **4. 📜 Ayar — Ayat Rhymes (Quran Poems)**  
-Similar to Riri, but creates poetic videos from the **Quran**.  
-- 🕌 Quran-based poetry generation  
-- 🎬 Automated video creation & posting  
-- 📊 Hands-off content production  
-
----
-
-### **5. 🗨 Gossip Bot (Telegram)**  
+### **4. 🗨 Gossip Bot (Telegram)**  
 A fun AI chatbot that:  
 - 📥 Accepts audio or video from users  
 - ✍ Transcribes content  
 - 🤖 Sends it to AI “gossip personalities”  
 - 🎙 Generates entertaining audio/video conversations  
-- 📤 Returns results to the user on Telegram  
+- 📤 Returns results to the user on Telegram
+
+🔗 **Try here:** [@shortiesms_bot](https://t.me/shortiesms_bot)  
+
+---
+
+### **4. 📜 Ayar — Ayat Rhymes (Quran Poems)**  
+Similar to Riri, but creates poetic videos from the **Quran**.  
+- 🕌 Quran-based poetry generation  
+- 🎬 Automated video creation & posting  
+- 📊 Hands-off content production
+
+- 🔗 **Watch here:** [@quranpoems](https://youtube.com/@quranpoems)  
 
 ---
 
@@ -85,12 +89,13 @@ A fun AI chatbot that:
 ![Automation](https://img.shields.io/badge/-Automation-success?style=flat-square)
 ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube)
 ![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram)
+Many others...
 
 ---
 
 ## 📬 Let’s Work Together  
-💼 **Fiverr:** [Your Fiverr Link Here](https://fiver.com/hunrealmoves)  
-📧 **Email:** [Your Email Here](hunrealmoves@gmail.com)
+💼 **Fiverr:** [@hunrealmoves](https://fiver.com/hunrealmoves)  
+📧 **Email:** [Email](mailto:hunrealmoves@gmail.com)
 
 ---
 ⭐ If you like my work, consider giving this repo a star! ⭐
